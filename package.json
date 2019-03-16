@@ -30,6 +30,8 @@
     "save": "^2.3.3",
     "socket.io": "^2.0.3",
     "socket.io-redis": "^5.1.0",
-    "winston": "^2.2.0"
+    "winston": "^2.2.0",
+    "url":"^0.11.0"
+    
   }
 }
