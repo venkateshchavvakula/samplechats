@@ -10,7 +10,7 @@
     "url": "https://github.com/venkateshchavvakula198/samplechatserver.git",
     "type": "git"
   },
-  "author": "VENKATESH CHAVVAKULA (venkateshchavvakula198@gmail.com"),
+  "author": "VENKATESH CHAVVAKULA (venkateshchavvakula198@gmail.com)",
   "license": "MIT",
   "homepage": "https://localhost:3000",
   "dependencies": {
