@@ -8,14 +8,14 @@
 	},
 	"sessionSecret": "<RandomString>",
 	"facebook": {
-		"clientID": "2188718211457861",
-		"clientSecret": "5b98ee31cbe5f2c4a1332250e5b798b9",
+		"clientID": "<CLIENT ID>",
+		"clientSecret": "<SECRET KEY>",
 		"callbackURL": "/auth/facebook/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
 	"twitter": {
-		"consumerKey": "5uxn1g8IdRohyutwcO6QDr9EG",
-		"consumerSecret": "MGJzfYWkKeoj3QGagDK2dVMP0MZ0tVSBSQvBT6b4lZkdh8m8XR",
+		"consumerKey": "<CONSUMER KEY",
+		"consumerSecret": "CONSUMER SECRET",
 		"callbackURL": "/auth/twitter/callback",
 		"profileFields": ["id", "displayName", "photos"]
 	},
